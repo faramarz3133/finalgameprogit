@@ -4,7 +4,7 @@ import sys, pygame, random
 class Breakout():
    
     def main(self):
-          
+        print('hello')
         xspeed_init = 6
         yspeed_init = 6
         max_lives = 5
